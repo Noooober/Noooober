@@ -32,14 +32,5 @@ I'm a passionate developer focused on bridging the gap between elegant Frontend 
 
 ---
 
-### 📊 GitHub Activity
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nooooober/Nooooober/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nooooober/Nooooober/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nooooober/Nooooober/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 ### 📫 Connect with me
 - **GitHub:** Shoot me a DM!
