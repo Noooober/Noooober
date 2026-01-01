@@ -1,35 +1,45 @@
 # Hi there, I'm Nooooober! 👋
 
-I'm a Full-Stack Developer and AI Enthusiast. I enjoy building scalable web applications and exploring the intersection of web technology and Machine Learning. 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full-Stack+Developer+in+Training;AI+and+Machine+Learning+Enthusiast;Building+the+Future+with+Code" alt="Typing SVG" />
+</p>
+
+I'm a passionate developer focused on bridging the gap between elegant Frontend interfaces and powerful AI-driven Backends. Currently, I'm expanding my toolkit from web basics to enterprise-grade systems.
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 My Toolbox
 
-**Frontend & Design**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+**Frontend & Logic**
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css)](https://skillicons.dev)
 
-**Backend & AI/ML**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+**Backend & Data**
+[![My Skills](https://skillicons.dev/icons?i=python,java,spring,nodejs,postgres)](https://skillicons.dev)
 
----
-
-### 🧠 Deep Dive
-* 🤖 **AI & Machine Learning:** I'm fascinated by Neural Networks and Large Language Models (LLMs). I'm currently working on bringing AI models into the browser.
-* 💻 **Full-Stack:** I build type-safe applications using **Next.js** and **TypeScript**, backed by powerful **Java Spring** or **Python** services.
-* 🚀 **Goals:** To contribute to open-source AI tools and build applications that solve real-world problems.
-
-### 🌱 Current Focus
-- 🔭 **Project:** Developing a doddle like Finanace Tracker.
-- 📚 **Learning:** Deep Learning fundamentals and Spring Microservices.
-- 🤝 **Collaboration:** Looking to join projects involving **AI Automation** or **Full-stack TS**.
-
----
-### 🏆 GitHub Trophies
-
-[![github-trophy](https://github-trophy.vercel.app/?username=Nooooober&theme=darkhub)](https://github.com/ryo-ma/github-trophy)
+**AI & Machine Learning**
+[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,pandas,numpy)](https://skillicons.dev)
 
 ---
 
-### 📫 Reach Me
-- **DM:** Feel free to message me directly on GitHub!
+### 🧠 Research & Focus
+- 🤖 **AI/ML:** Exploring LLM and integrating LLMs into web apps.
+- 🏗 **Scalability:** Mastering Java Spring Boot for robust backend architectures.
+- ⚡ **Type-Safety:** Moving all my JavaScript projects to **TypeScript** for better stability.
+
+### 🌱 Current Activity
+- 🔭 **Working on:** A Doddle Finanace Tracker using React.
+- 📚 **Learning:** Deep Learning fundamentals and Microservices.
+
+---
+
+### 📊 GitHub Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nooooober/Nooooober/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nooooober/Nooooober/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nooooober/Nooooober/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 📫 Connect with me
+- **GitHub:** Shoot me a DM!
